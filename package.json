@@ -1,0 +1,22 @@
+{
+  "name": "Imax",
+  "version": "0.0.1",
+  "description": "This is only for learning Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "keywords": [
+    "Node",
+    "Express"
+  ],
+  "author": "Aman Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~4.14.0",
+    "body-parser": "~1.15.2",
+    "path": "~0.12.7",
+    "express-form": "~0.12.6",
+    "express-flash": "0.0.2"
+  }
+}
